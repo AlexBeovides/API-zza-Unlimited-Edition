@@ -1,0 +1,56 @@
+[
+  {
+    "Name": "Pepperoni",
+    "Quantity": 150,
+    "Category": "Meat",
+    "Price": 2.5
+  },
+  {
+    "Name": "Cheese",
+    "Quantity": 250,
+    "Category": "Dairy",
+    "Price": 1.75
+  },
+  {
+    "Name": "Tomato",
+    "Quantity": 100,
+    "Category": "Vegetable",
+    "Price": 0.5
+  },
+  {
+    "Name": "Basil",
+    "Quantity": 20,
+    "Category": "Herb",
+    "Price": 0.25
+  },
+  {
+    "Name": "Mushrooms",
+    "Quantity": 120,
+    "Category": "Vegetable",
+    "Price": 1.0
+  },
+  {
+    "Name": "Bell Peppers",
+    "Quantity": 80,
+    "Category": "Vegetable",
+    "Price": 0.75
+  },
+  {
+    "Name": "Onions",
+    "Quantity": 70,
+    "Category": "Vegetable",
+    "Price": 0.3
+  },
+  {
+    "Name": "Ham",
+    "Quantity": 110,
+    "Category": "Meat",
+    "Price": 2.0
+  },
+  {
+    "Name": "Pineapple",
+    "Quantity": 60,
+    "Category": "Fruit",
+    "Price": 1.0
+  }
+]

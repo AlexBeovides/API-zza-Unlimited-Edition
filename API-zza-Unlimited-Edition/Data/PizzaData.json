@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "Hawaiian",
+    "Price": 11.99,
+    "Toppings": [ "Ham", "Pineapple", "Cheese" ]
+  },
+  {
+    "Name": "Vegetarian",
+    "Price": 13.49,
+    "Toppings": [ "Mushrooms", "Bell Peppers", "Onions", "Cheese" ]
+  },
+  {
+    "Name": "Margherita",
+    "Price": 10.99,
+    "Toppings": [ "Cheese", "Tomato", "Basil" ]
+  },
+  {
+    "Name": "Pepperoni",
+    "Price": 12.99,
+    "Toppings": [ "Pepperoni", "Cheese" ]
+  }
+
+]
